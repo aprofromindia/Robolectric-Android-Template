@@ -1,1 +1,2 @@
-### A Sample Android Studio 1.1.0 compatible Robolectric project template.
+# A Sample Android Studio 1.1.0 compatible Robolectric project template for Mac.
+- For other platforms, in case of any problems; please update the default JUnit run configuration's 'Working directory:' settings to the Project Directory. For more information please visit http://robolectric.org/getting-started/.
