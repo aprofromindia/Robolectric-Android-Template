@@ -1,0 +1,1 @@
+### A Sample Android Studio 1.1.0 compatible Robolectric project template.
